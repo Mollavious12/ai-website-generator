@@ -1,5 +1,3 @@
----
-
 #  Dashboard Generator (Next.js)
 
 ###  Live Demo
